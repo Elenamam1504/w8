@@ -2,5 +2,20 @@
     color: #fff;
     background-color: #5222D0;
     border-color: #5222D0;
+    border-radius: 1rem;
 }
 
+.main__content-title {
+    font-size: 2rem;
+}
+
+.card-subscribe {
+    background-color: #EC615B;
+    color: #fff;
+}
+.main__img {
+    height: 30rem;
+}
+.button__img {
+    height: 1rem;
+}
